@@ -19,4 +19,4 @@ Mi proyecto de App Móvil esta inspirado en entrenamientos personales, rutinas d
 - Seguridad de los datos
 
 # Mockup
-https://marvelapp.com/project/6634269
+[https://marvelapp.com/project/6634269](https://marvelapp.com/prototype/69dgag2)
